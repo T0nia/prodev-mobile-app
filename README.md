@@ -1,6 +1,6 @@
 # Project Directories Overview
 
-This repository contains different versions of the **ProDev Mobile App** project. Each directory represents a different phase of development with specific objectives.
+The repository contains different versions of the **ProDev Mobile App** project. Each directory represents a different phase of development with specific objectives.
 
 ## **Directories and Objectives**
 
