@@ -1,4 +1,4 @@
-# Project Directories Overview
+# Project Directories 
 
 The repository contains different versions of the **ProDev Mobile App** project. Each directory represents a different phase of development with specific objectives.
 
