@@ -16,9 +16,3 @@ Objective:
 - Integration of API calls for authentication and data fetching.
 - Implementation of state management using React Context or Redux.
 
-### **prodev-mobile-app-0x06**
-Objective:
-- Optimization and performance improvements.
-- Fixing bugs from the previous version.
-- Implementing advanced features such as deep linking, notifications, and dynamic routing using **expo-router**.
-
