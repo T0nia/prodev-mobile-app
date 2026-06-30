@@ -14,5 +14,5 @@ Objective:
 Objective:
 - Enhancement of the UI/UX with improved styling and animations.
 - Integration of API calls for authentication and data fetching.
-- Implementation of state management using React Context or Redux.
+- Implementation of state management 
 
